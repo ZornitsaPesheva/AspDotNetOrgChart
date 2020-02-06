@@ -1,2 +1,1 @@
-# OrgChart.NetCore
 # AspDotNetOrgChart
